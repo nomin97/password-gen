@@ -89,7 +89,7 @@ function generatePassword() {
     }    
      
     for (var i = 0; i <= passwordLength; i++) {
-      result += password[Math.floor(Math.random() * password.length)];
+      result += writePassword[Math.floor(Math.random() * password.length)];
     }
     document.getElementById("password").value = result;
   }
