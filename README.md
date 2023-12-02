@@ -8,7 +8,7 @@ n/a
 
 ## Usage
 Users can press the generate password button to get a 8-128 letter password containing uppercase, lowercase, numeric, and special character password. The deployed page can be found here https://nomin97.github.io/password-gen/.  
-![alt](/challenges/friendly-parakeet/deployed%20page%20.png)
+![alt](./deployed%20page%20.png)
 
 ## Credits
 starter code provided by bootcamp on github. I used multiple websites like w3schools, educative.io, mdn web docs, as well as course material from our class for help.
